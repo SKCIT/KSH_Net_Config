@@ -1,0 +1,7 @@
+1. 更改防火牆的Interface Wan IP
+2. FW的Policy要設定…等
+（參考說明：https://goo.gl/HDUl1V）
+3.更改HP Switch的設定（套用各點範本）
+4.與各點VPN連通測試（Ping，傳檔等…）
+5.建置SSL-VPN，讓Client在外網也能夠連進來
+6.
